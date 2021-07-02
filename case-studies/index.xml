@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Case-studies on Homepage</title>
+    <link>/case-studies/</link>
+    <description>Recent content in Case-studies on Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Thu, 03 Jan 2019 14:38:36 +0000</lastBuildDate><atom:link href="/case-studies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Workday implementation</title>
+      <link>/case-studies/workday-implementation/</link>
+      <pubDate>Thu, 03 Jan 2019 14:38:36 +0000</pubDate>
+      
+      <guid>/case-studies/workday-implementation/</guid>
+      <description>Designit, a global strategic design agency, was preparing to implement a new Enterprise Resource Planning system, Workday. With more than 500 employees spread across 16 offices, it was crucial that all Designit&amp;rsquo;s employees adopted and used the new system.
+My challenge was to make the existing Workday UX copy easier to understand and more user-friendly. I also needed to introduce the Designit brand voice to support a consistent employee experience across all touchpoints.</description>
+    </item>
+    
+    <item>
+      <title>The future of cooking</title>
+      <link>/case-studies/future-of-cooking/</link>
+      <pubDate>Tue, 14 Aug 2018 06:24:30 +0000</pubDate>
+      
+      <guid>/case-studies/future-of-cooking/</guid>
+      <description>Designit is a global strategic design agency. One of its product design teams in Copenhagen wanted to target a potential client with an industry white paper incorporating macro trends and experimental ideas.
+I helped the team research ten key global trends with a combination of interviews and desk research. From there, we brainstormed potential challenges, opportunities, and solutions with a series of &amp;ldquo;how might we&amp;rdquo; questions.
+Unlike washing up, white papers don&amp;rsquo;t have to be boring.</description>
+    </item>
+    
+    <item>
+      <title>A human-shaped world</title>
+      <link>/case-studies/human-shaped-book/</link>
+      <pubDate>Tue, 14 Aug 2018 05:21:59 +0000</pubDate>
+      
+      <guid>/case-studies/human-shaped-book/</guid>
+      <description>Designit is a global strategic design agency. In 2015, Designit had doubled its headcount in just one year, expanded into new regions, and was acquired by multinational IT company Wipro.
+To ensure a successful acquisition and support further growth, Designit needed to consolidate its unique culture and communicate its vision and values internally and externally.
+I collected and consolidated input from key internal stakeholders from Designit&amp;rsquo;s twelve offices around the globe.</description>
+    </item>
+    
+    <item>
+      <title>itrip17</title>
+      <link>/case-studies/itrip17/</link>
+      <pubDate>Sun, 05 Aug 2018 22:13:20 +0200</pubDate>
+      
+      <guid>/case-studies/itrip17/</guid>
+      <description>Designit is a global strategic design agency. For the past ten years, Designit had gathered its employees from around the world for an annual &amp;ldquo;inspiration trip&amp;rdquo;: itrip. The event acted as a creative spark for the coming year&amp;rsquo;s work and had become a flagship for Designit&amp;rsquo;s employee recruitment and retention initiatives.
+2017&amp;rsquo;s itrip was more important than ever. After the company&amp;rsquo;s recent acquisition, dramatic growth, and new business strategy, itrip17 was a chance to re-establish a sense of community and a shared vision for the year ahead.</description>
+    </item>
+    
+  </channel>
+</rss>
